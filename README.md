@@ -1,5 +1,5 @@
 # Wander_Wizard
-### Live Website - https://wanderwiz-uzec.onrender.com/
+### Live Website - https://wandwizard.taipy.cloud/
 A travel planning tool powered by AI to provide personalized recommendations and insights.
 
 ### Features:
