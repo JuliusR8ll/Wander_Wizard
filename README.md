@@ -16,6 +16,8 @@ A travel planning tool powered by AI to provide personalized recommendations and
         A Google AI Platform account with a valid API key
 
 ### ScreenShots
-![image](https://github.com/JuliusR8ll/Wander_Wizard/assets/113248967/7883387c-af04-45c8-a0c2-0f43bf690652)
-![image](https://github.com/JuliusR8ll/Wander_Wizard/assets/113248967/96d7b3c5-5950-4d1d-8601-c69aade1767f)
+![image](https://github.com/JuliusR8ll/Wander_Wizard/assets/113248967/ad6e6a7e-e44c-49e0-bc34-6da65ead8b55)
+
+![image](https://github.com/JuliusR8ll/Wander_Wizard/assets/113248967/92234f15-05e1-41d5-98ea-24e4c0d9aa20)
+
 
