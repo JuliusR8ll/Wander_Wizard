@@ -13,7 +13,7 @@ A travel planning tool powered by AI to provide personalized recommendations and
 
         Python 3.6 or later
         Required libraries: taipy, flask, google-generativeai, Pillow
-        A Google AI Platform account with a valid API key
+        OpenAI Key
 
 ### ScreenShots
 ![image](https://github.com/JuliusR8ll/Wander_Wizard/assets/113248967/ad6e6a7e-e44c-49e0-bc34-6da65ead8b55)
